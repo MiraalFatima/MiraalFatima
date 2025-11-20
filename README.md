@@ -1,8 +1,8 @@
 # 💫 About Me:
-# Hi there, I'm Miraal Fatima! 👋<br>### Software Engineering Student | MERN Stack & AI Enthusiast<br><br>I am a final-year Software Engineering student at **FAST-NUCES, Lahore**, passionate about bridging the gap between robust software engineering and Artificial Intelligence. My work ranges from building full-stack web applications to developing CNN-based classification models.<br><br>- 🔭 **I’m currently working on:** A peer-to-peer skill exchange platform called **SkillSwap**.<br>- 🌱 **I’m currently learning:** Advanced NLP techniques and Agentic AI workflows.<br>- 👯 **I’m looking to collaborate on:** Open-source MERN stack projects or AI-integrated web tools.<br>- 💬 **Ask me about:** React, Next.js, Java, and Deep Learning.<br>- 📫 **How to reach me:** [miraal.fatima.297@gmail.com](mailto:miraal.fatima.297@gmail.com)
+# Hi there, I'm Miraal Fatima! 👋<br># Software Engineering Student | MERN Stack & AI Enthusiast<br><br>I am a final-year Software Engineering student at **FAST-NUCES, Lahore**, passionate about bridging the gap between robust software engineering and Artificial Intelligence. My work ranges from building full-stack web applications to developing CNN-based classification models.<br><br>- 🔭 **I’m currently working on:** A peer-to-peer skill exchange platform called **SkillSwap**.<br>- 🌱 **I’m currently learning:** Advanced NLP techniques and Agentic AI workflows.<br>- 👯 **I’m looking to collaborate on:** Open-source MERN stack projects or AI-integrated web tools.<br>- 💬 **Ask me about:** React, Next.js, Java, and Deep Learning.<br>- 📫 **How to reach me:** [miraal.fatima.297@gmail.com](mailto:miraal.fatima.297@gmail.com)
 
 
-## 🌐 Socials:
+#🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miraal.fatima.297@gmail.com) 
 
 # 💻 Tech Stack:
