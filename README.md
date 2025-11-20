@@ -16,7 +16,7 @@ I am a final-year Software Engineering student at **FAST-NUCES**, passionate abo
 
 - 🔭 **Current Project:** **SkillSwap** (Peer-to-Peer Skill Exchange Platform)
 - 🌱 **Currently Learning:** Advanced NLP & Agentic AI Workflows
-- 💼 **Experience:** Interned at **Hyundai Nishat**, **Nexium**, and **Elevvo**
+- 💼 **Experience:** Interned at **Hyundai Nishat**, **Nexium**, **Code Generation** and **Elevvo**
 - 💬 **Ask Me About:** React, Next.js, Java, and CNNs
 
 ###
